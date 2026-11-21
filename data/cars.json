@@ -1,0 +1,290 @@
+[
+    {
+        "car_id": "A1",
+        "car_name": "Tesla Model 3",
+        "car_version": "Premium AWD (Highland)",
+        "range": 660,
+        "acc": 4.4,
+        "speed": 201,
+        "battery": 79
+    },
+    {
+        "car_id": "A2",
+        "car_name": "BMW i4",
+        "car_version": "eDrive40 (2025)",
+        "range": 613,
+        "acc": 5.6,
+        "speed": 190,
+        "battery": 81.3
+    },
+    {
+        "car_id": "A3",
+        "car_name": "Hyundai IONIQ 6",
+        "car_version": "84 kWh RWD (MY26)",
+        "range": 680,
+        "acc": 7.4,
+        "speed": 185,
+        "battery": 80
+    },
+    {
+        "car_id": "A4",
+        "car_name": "Polestar 2",
+        "car_version": "Long Range Single Motor (MY26)",
+        "range": 659,
+        "acc": 6.2,
+        "speed": 205,
+        "battery": 79
+    },
+    {
+        "car_id": "B1",
+        "car_name": "Tesla Model Y",
+        "car_version": "Premium AWD (Juniper)",
+        "range": 629,
+        "acc": 4.8,
+        "speed": 201,
+        "battery": 79
+    },
+    {
+        "car_id": "B2",
+        "car_name": "Škoda Enyaq",
+        "car_version": "85 (MY25)",
+        "range": 586,
+        "acc": 6.7,
+        "speed": 180,
+        "battery": 77
+    },
+    {
+        "car_id": "B3",
+        "car_name": "Kia EV6",
+        "car_version": "Long Range AWD (MY25)",
+        "range": 546,
+        "acc": 5.2,
+        "speed": 188,
+        "battery": 80
+    },
+    {
+        "car_id": "B4",
+        "car_name": "Kia EV5",
+        "car_version": "81.4 kWh (MY26)",
+        "range": 530,
+        "acc": 8.4,
+        "speed": 165,
+        "battery": 78
+    },
+    {
+        "car_id": "C1",
+        "car_name": "Renault 5 E-Tech",
+        "car_version": "52 kWh 150 hp",
+        "range": 416,
+        "acc": 8,
+        "speed": 150,
+        "battery": 52
+    },
+    {
+        "car_id": "C2",
+        "car_name": "Fiat 500e",
+        "car_version": "Hatchback 42 kWh",
+        "range": 334,
+        "acc": 9,
+        "speed": 150,
+        "battery": 37.3
+    },
+    {
+        "car_id": "C3",
+        "car_name": "Hyundai INSTER",
+        "car_version": "Long Range",
+        "range": 370,
+        "acc": 10.6,
+        "speed": 150,
+        "battery": 46
+    },
+    {
+        "car_id": "C4",
+        "car_name": "Citroën ë-C3",
+        "car_version": "44 kWh",
+        "range": 327,
+        "acc": 11.5,
+        "speed": 132,
+        "battery": 43.8
+    },
+    {
+        "car_id": "D1",
+        "car_name": "Mercedes-Benz EQS",
+        "car_version": "450+",
+        "range": 822,
+        "acc": 6.2,
+        "speed": 210,
+        "battery": 118
+    },
+    {
+        "car_id": "D2",
+        "car_name": "BMW i7",
+        "car_version": "eDrive50",
+        "range": 611,
+        "acc": 5.5,
+        "speed": 205,
+        "battery": 101.7
+    },
+    {
+        "car_id": "D3",
+        "car_name": "Lucid Air",
+        "car_version": "Grand Touring (MY25-26)",
+        "range": 961,
+        "acc": 3.2,
+        "speed": 270,
+        "battery": 117
+    },
+    {
+        "car_id": "D4",
+        "car_name": "Audi A6 Sportback e-tron",
+        "car_version": "quattro",
+        "range": 720,
+        "acc": 4.7,
+        "speed": 210,
+        "battery": 94.9
+    },
+    {
+        "car_id": "E1",
+        "car_name": "Kia EV9",
+        "car_version": "99.8 kWh AWD",
+        "range": 523,
+        "acc": 6,
+        "speed": 200,
+        "battery": 96
+    },
+    {
+        "car_id": "E2",
+        "car_name": "Volvo EX90",
+        "car_version": "Twin Motor (MY26-27)",
+        "range": 624,
+        "acc": 5.5,
+        "speed": 180,
+        "battery": 102
+    },
+    {
+        "car_id": "E3",
+        "car_name": "BMW iX",
+        "car_version": "xDrive60",
+        "range": 701,
+        "acc": 4.6,
+        "speed": 200,
+        "battery": 109.1
+    },
+    {
+        "car_id": "E4",
+        "car_name": "Audi Q6 e-tron",
+        "car_version": "SUV quattro (MY26)",
+        "range": 642,
+        "acc": 5.1,
+        "speed": 210,
+        "battery": 94.9
+    },
+    {
+        "car_id": "F1",
+        "car_name": "BYD SEAL",
+        "car_version": "82.5 kWh AWD Excellence",
+        "range": 520,
+        "acc": 3.8,
+        "speed": 180,
+        "battery": 82.5
+    },
+    {
+        "car_id": "F2",
+        "car_name": "MG4 Electric",
+        "car_version": "77 kWh",
+        "range": 565,
+        "acc": 6.5,
+        "speed": 180,
+        "battery": 74.4
+    },
+    {
+        "car_id": "F3",
+        "car_name": "XPENG G6",
+        "car_version": "RWD Long Range (MY25)",
+        "range": 525,
+        "acc": 6.7,
+        "speed": 202,
+        "battery": 80
+    },
+    {
+        "car_id": "F4",
+        "car_name": "Zeekr 7X",
+        "car_version": "Long Range RWD",
+        "range": 615,
+        "acc": 6,
+        "speed": 210,
+        "battery": 97
+    },
+    {
+        "car_id": "G1",
+        "car_name": "Tesla Model S",
+        "car_version": "Plaid",
+        "range": 611,
+        "acc": 2.4,
+        "speed": 262,
+        "battery": 95
+    },
+    {
+        "car_id": "G2",
+        "car_name": "Porsche Taycan",
+        "car_version": "Turbo S",
+        "range": 634,
+        "acc": 2.4,
+        "speed": 260,
+        "battery": 97
+    },
+    {
+        "car_id": "G3",
+        "car_name": "Audi RS e-tron GT",
+        "car_version": "performance",
+        "range": 592,
+        "acc": 2.5,
+        "speed": 250,
+        "battery": 97
+    },
+    {
+        "car_id": "G4",
+        "car_name": "Hyundai IONIQ 5 N",
+        "car_version": "",
+        "range": 448,
+        "acc": 3.4,
+        "speed": 260,
+        "battery": 80
+    },
+    {
+        "car_id": "H1",
+        "car_name": "Kia EV3",
+        "car_version": "Long Range",
+        "range": 605,
+        "acc": 7.7,
+        "speed": 170,
+        "battery": 78
+    },
+    {
+        "car_id": "H2",
+        "car_name": "Volvo EX30",
+        "car_version": "Single Motor Extended Range",
+        "range": 476,
+        "acc": 5.3,
+        "speed": 180,
+        "battery": 65
+    },
+    {
+        "car_id": "H3",
+        "car_name": "Renault Scenic E-Tech",
+        "car_version": "87 kWh 220 hp",
+        "range": 623,
+        "acc": 7.9,
+        "speed": 170,
+        "battery": 87
+    },
+    {
+        "car_id": "H4",
+        "car_name": "Škoda Elroq",
+        "car_version": "85 (MY27)",
+        "range": 577,
+        "acc": 6.6,
+        "speed": 180,
+        "battery": 77
+    }
+]
