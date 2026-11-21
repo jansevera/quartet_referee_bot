@@ -1,4 +1,4 @@
-# quartet_referee_bot
+# Quartet Referee Bot
 
 A referee for the EV quartet card game. The script asks a local LLM a question,
 the LLM calls a tool (a Python function that looks up or calculates card stats),
